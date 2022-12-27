@@ -1,6 +1,6 @@
 # Read Me
 
-## STEP 1
+## Install npm package
 ```
 npm i
 ```
