@@ -4,6 +4,7 @@ const get = require("request")
 const https = require("https")
 const response= require("express")
 const bodyParser = require("body-parser")
+require("dotenv").config()
 
 //  MODULE SETTING  /////////////
 const app = express()
